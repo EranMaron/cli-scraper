@@ -11,4 +11,5 @@ This command line tool get two arguments:
 * Website URL
 * Output folder
 
-` intango www.some-website.com outputFolder `
+Use the command **intango
+<**` intango www.some-website.com outputFolder `>
